@@ -1,0 +1,31 @@
+body{
+    margin: 0%;
+}
+
+
+.btn{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 15px 20px;
+    border: 0;
+    border-radius: 15px;
+}
+.btn-success{
+    background-color: green;
+}
+.btn-danger{
+    background-color: red;
+}
+.btn-info{
+    background-color: orange;
+}
+.btn-warning{
+    background-color: lightblue;
+}
+.btn-dark{
+    background-color: rgba(0,0,0,0.9);
+}
+.container{
+    
+}
